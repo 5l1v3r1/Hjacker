@@ -1,4 +1,6 @@
 # Hjacker
+## A responsibility
+The author of the program is not responsible for the damage that may be caused
 
 ## General info
 This is a console like a linux terminal and windows cmd for windows systems
