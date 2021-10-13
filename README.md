@@ -1,12 +1,17 @@
 # Hjacker
 
 ## General info
-This is a console like a linux terminal and windows cmd
+This is a console like a linux terminal and windows cmd for windows systems
 	
 ## Setup
-To run this software, install python and execute in cmd this lines:
+To run this software you need:
 
+* Install python
+* Open setup.bat
+* Open Hjacker.py
+Here a little guide how to open .py file:
+* Open .py file using cmd:
 ```
-> cd Hjacker
 > python hjacker.py
 ```
+* Just open .py file from folder
