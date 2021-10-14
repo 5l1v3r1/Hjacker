@@ -6,6 +6,7 @@ import os
 import getpass
 import pyautogui as pg
 import base64
+init()
 
 os.system('cls')
 print(f"""{Fore.MAGENTA}
