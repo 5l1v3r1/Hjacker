@@ -4,7 +4,6 @@ import pyautogui as pg
 import sys, time, threading, itertools, random, base64, getpass, os, requests, random
 init()
 done = False
-#here is the animation
 def animate():
     for c in itertools.cycle(['|', '/', '-', '\\']):
         if done:
