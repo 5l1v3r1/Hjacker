@@ -15,8 +15,6 @@ def animate():
 
 t = threading.Thread(target=animate)
 t.start()
-
-#long process here
 time.sleep(2)
 done = True
 os.system('cls')
